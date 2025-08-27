@@ -1,1 +1,2 @@
-# Here We Are Learning Gemini AI Models, and Building Applications.
+#                   Gen AI 
+# Gemini AI Models, and Building Applications.
